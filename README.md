@@ -2,7 +2,7 @@
 
 ![## 🔍 7  Örnek Tahminler (Sample Predictions) Modelin gerçek hayattaki tahmin gücünü göstermek amacıyla test setinden rastgele seçilen öğrenciler için tahminler yapılmıştır  Öğrenci  Gerçek Değer  (2)](https://github.com/user-attachments/assets/65984ab6-ee40-40e7-89bf-328f76f54c54)
 
-Bu proje, uçak yolcularının memnuniyetini etkileyen faktörleri incelemek ve memnuniyet düzeyini tahmin etmeye yönelik bir veri bilimi çalışmasıdır. Veri seti, yolcuların uçuş deneyimlerine ilişkin çeşitli kategorik ve sayısal özellikleri içermektedir.
+Bu proje, uçak yolcularının memnuniyetini etkileyen faktörleri incelemek ve memnuniyet düzeyini tahmin etmeye yönelik bir veri analizi çalışmasıdır. Veri seti, yolcuların uçuş deneyimlerine ilişkin çeşitli kategorik ve sayısal özellikleri içermektedir.
 
 ## 1. Veri Seti Hakkında
 
